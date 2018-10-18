@@ -1,2 +1,2 @@
-# blog
-blog posts scripts
+# Description
+This repository contains code of posts writen in my blog.
